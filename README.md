@@ -11,9 +11,9 @@ Smart TV (Android TV and Google TV) Apps
 ---
 
 ### Roku Channel
-![Roku Channel Logo]((https://cdn.aptoide.com/imgs/9/e/f/9ef5b01e0a2a2ee1ca50b9a6554192fe_icon.png?w=128)
+![Roku Channel Logo](https://cdn.aptoide.com/imgs/9/e/f/9ef5b01e0a2a2ee1ca50b9a6554192fe_icon.png?w=128)
 
-[Roku Channel]([](https://play.google.com/store/apps/details?id=com.imdbtv.livingroom&hl=en_US)
+[Roku Channel](https://play.google.com/store/apps/details?id=com.imdbtv.livingroom&hl=en_US)
 
 ---
 
