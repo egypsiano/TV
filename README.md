@@ -11,23 +11,23 @@ Smart TV (Android TV and Google TV) Apps
 ---
 
 ### Roku Channel
-![Roku Channel Logo]([https://play.google.com/store/apps/details?id=com.imdbtv.livingroom&hl=en_US](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/The_Roku_Channel_Logo.svg/500px-The_Roku_Channel_Logo.svg.png))
+![Roku Channel Logo]([https://play.google.com/store/apps/details?id=com.imdbtv.livingroom&hl=en_US](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/The_Roku_Channel_Logo.svg/500px-The_Roku_Channel_Logo.svg.png)
 
-[Roku Channel]([https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Freevee_logo_background_purple.svg/500px-Freevee_logo_background_purple.svg.png](https://apps.apple.com/us/app/the-roku-app-official/id482066631))
+[Roku Channel]([https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Freevee_logo_background_purple.svg/500px-Freevee_logo_background_purple.svg.png](https://apps.apple.com/us/app/the-roku-app-official/id482066631)
 
 ---
 
 ### Xumo
-![Xumo Logo]([https://play.google.com/store/apps/details?id=com.imdbtv.livingroom&hl=en_US](https://cdn.aptoide.com/imgs/5/b/7/5b7e9753ae1dcb6edc38a5b50d1dc3e2_icon.png?w=128))
+![Xumo Logo]([https://play.google.com/store/apps/details?id=com.imdbtv.livingroom&hl=en_US](https://cdn.aptoide.com/imgs/5/b/7/5b7e9753ae1dcb6edc38a5b50d1dc3e2_icon.png?w=128)
 
-[Xumo]([https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Freevee_logo_background_purple.svg/500px-Freevee_logo_background_purple.svg.png](https://xumo.en.aptoide.com/app))
+[Xumo]([https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Freevee_logo_background_purple.svg/500px-Freevee_logo_background_purple.svg.png](https://xumo.en.aptoide.com/app)
 
 ---
 
 ### Pluto TV
-![Pluto TV Logo]([https://play.google.com/store/apps/details?id=com.imdbtv.livingroom&hl=en_US](https://cdn.aptoide.com/imgs/1/6/4/164824f3533ce550d8be88a29a5d7d37_icon.png?w=128))
+![Pluto TV Logo]([https://play.google.com/store/apps/details?id=com.imdbtv.livingroom&hl=en_US](https://cdn.aptoide.com/imgs/1/6/4/164824f3533ce550d8be88a29a5d7d37_icon.png?w=128)
 
-[Pluto TV]([https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Freevee_logo_background_purple.svg/500px-Freevee_logo_background_purple.svg.png](https://pluto-tv.en.aptoide.com/app))
+[Pluto TV]([https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Freevee_logo_background_purple.svg/500px-Freevee_logo_background_purple.svg.png](https://pluto-tv.en.aptoide.com/app)
 
 ---
 
