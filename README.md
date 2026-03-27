@@ -11,14 +11,14 @@ Smart TV (Android TV and Google TV) Apps
 ---
 
 ### Roku Channel
-![Roku Channel Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Freevee_logo_background_purple.svg/500px-Freevee_logo_background_purple.svg.png)
+![Roku Channel Logo]((https://cdn.aptoide.com/imgs/9/e/f/9ef5b01e0a2a2ee1ca50b9a6554192fe_icon.png?w=128)
 
 [Roku Channel]([](https://play.google.com/store/apps/details?id=com.imdbtv.livingroom&hl=en_US)
 
 ---
 
 ### Xumo
-![Xumo Logo]([https://play.google.com/store/apps/details?id=com.imdbtv.livingroom&hl=en_US](https://cdn.aptoide.com/imgs/5/b/7/5b7e9753ae1dcb6edc38a5b50d1dc3e2_icon.png?w=128)
+![Xumo Logo](https://cdn.aptoide.com/imgs/5/b/7/5b7e9753ae1dcb6edc38a5b50d1dc3e2_icon.png?w=128)
 
 [Xumo](https://xumo.en.aptoide.com/app)
 
