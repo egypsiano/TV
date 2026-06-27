@@ -48,7 +48,7 @@ Code for Downloader App: 3242533
 # VOD
 
 ## HDO Box
-![HDO Box Logo](https://hdo.app/images/logo.png)
+![HDO Box Logo](https://liteapks.com/wp-content/uploads/2026/02/download-150x150.jpg)
 
 [HDO Box Download](https://hdo.app/download)
 
