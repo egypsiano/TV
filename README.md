@@ -69,8 +69,8 @@ Code for Downloader App: 3242533
 ---
 
 ## DebridStream
-![Film+ App]([https://apktodo.io/uploads/2024/5/filmplus-player-icon-150.jpg)
+![DebridStream](https://debridstream.en.aptoide.com/_next/image?url=https%3A%2F%2Fcdn.aptoide.com%2Fimgs%2F1%2F1%2Fc%2F11cc3fc139c33349e413f61c604a1080_icon.png&w=256&q=75)
 
-[Film+](https://github.com/codebutter-bit/scraper/releases)
+[DebridStream](https://debridstream.en.aptoide.com/app)
 
 ---
