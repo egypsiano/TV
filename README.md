@@ -45,7 +45,7 @@ Code for Downloader App: 3242533
 
 ---
 
-# VOD
+# VOD (Movies & Shows)
 
 ## HDO Box
 ![HDO Box Logo](https://liteapks.com/wp-content/uploads/2026/02/download-150x150.jpg)
@@ -55,7 +55,7 @@ Code for Downloader App: 3242533
 ---
 
 ## Nuvio
-![Nuvio App](https://troypoint.com/wp-content/uploads/2026/02/Nuvio-APK.png.webp)
+![Nuvio App](https://github.com/NuvioMedia/NuvioTV/raw/dev/assets/brand/app_logo_wordmark.png)
 
 [Nuvio GitHub Releases](https://github.com/NuvioMedia/NuvioMobile/releases/latest)
 
@@ -74,3 +74,72 @@ Code for Downloader App: 3242533
 [DebridStream](https://debridstream.en.aptoide.com/app)
 
 ---
+
+## STRMR
+![STRMR](https://www.strmr.net/_next/image?url=%2Flogo.png&w=384&q=75&dpl=dpl_2jitpPfsMFEBD7xudMwjjjRTT3Kj)
+[STRMR](https://github.com/strmrdev/strmr-releases/releases/latest/)
+
+---
+
+## Stremize
+![Stremize](https://stremize.com/storage/63/mXUGXxcHuJwyZsYqKrSdLSC6nuSlHzskgvEfzF3G.png)
+[Stremize](https://stremize.com/download-file?version=recommended&device=tv)
+
+---
+
+## ARVIO
+![ARVIO](https://arvio.tv/assets/arvio-wordmark.png)
+[ARVIO](https://github.com/ProdigyV21/ARVIO/releases/latest)
+
+---
+
+## RealStream
+![RealStream](https://rstream.app/_next/image?url=%2Flogo-realstream.png&w=48&q=75)
+[RealStream](https://rstream.app/download/android-tv/latest)
+
+---
+
+### Lumera
+![Lumera](https://github.com/LumeraD3v/Lumera/raw/main/screenshots/banner.png)
+[Lumera](https://github.com/LumeraD3v/Lumera/releases/latest)
+
+---
+
+### Debrify
+![Debrify](https://github.com/varunsalian/debrify/raw/main/assets/app_icon.png)
+[Debrify](https://github.com/varunsalian/debrify/releases/latest)
+
+---
+
+### 
+![WuPlay](https://raw.githubusercontent.com/wuplayapp/wuplay-releases/main/screenshots/logo.png)
+[WuPlay](https://github.com/wuplayapp/wuplay-releases/releases/latest)
+
+---
+
+## Waveo
+![Waveo](https://www.waveo.tv/_next/image?url=%2Fimages%2Flogo%2Fbanner-transparent.png&w=640&q=75)
+
+[Waveo](https://github.com/sm4rtw4v3t3ch/WAVEO/releases/latest)
+
+# IPTV Players
+
+---
+
+## Sparkle TV
+![Sparkle TV](https://www.apkmirror.com/wp-content/themes/APKMirror/ap_resize/ap_resize.php?src=https%3A%2F%2Fdownloadr2.apkmirror.com%2Fwp-content%2Fuploads%2F2024%2F04%2F40%2F662bde46de29f_se.hedekonsult.sparkle.png&w=192&h=192&q=100)
+
+[Sparkle TV](https://www.apkmirror.com/apk/hede-konsulttjanst-ab/sparkle-tv-iptv-player/)
+
+---
+
+## Tivimate
+![Tivimate](https://img.utdstc.com/icon/c40/b09/c40b099c862c3526ac64cdf017dce53d5d15b989d2b02e34dd580c54f6af31aa:200)
+
+[Tivimate](https://tivimate.com/apk)
+
+
+---
+
+# Tools
+
