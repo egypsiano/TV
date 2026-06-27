@@ -125,7 +125,7 @@ Code for Downloader App: 3242533
 ---
 
 ### Jellyfin
-![JellyFin] (https://jellyfin.org/images/logo.svg)
+![JellyFin](https://raw.githubusercontent.com/jellyfin/jellyfin-ux/master/branding/SVG/banner-logo-solid.svg?sanitize=true)
 
 [Jellyfin](https://github.com/jellyfin/jellyfin-android)
 
