@@ -132,7 +132,7 @@ Code for Downloader App: 3242533
 ## Sparkle TV
 ![Sparkle TV](https://www.apkmirror.com/wp-content/themes/APKMirror/ap_resize/ap_resize.php?src=https%3A%2F%2Fdownloadr2.apkmirror.com%2Fwp-content%2Fuploads%2F2024%2F04%2F40%2F662bde46de29f_se.hedekonsult.sparkle.png&w=192&h=192&q=100)
 
-[Sparkle TV](https://www.apkmirror.com/apk/hede-konsulttjanst-ab/sparkle-tv-iptv-player/)
+[Sparkle TV](https://dl.dropbox.com/scl/fi/m1u2eiakfq8mqrn6w9kgk/sparkle_203017.apk?rlkey=uw37ppmi9foh8cibk97ahcdz5&st=qoc9a87z&dl=1)
 
 ---
 
