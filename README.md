@@ -4,6 +4,19 @@ Code for Downloader App: 3242533
 
 ---
 
+### Netfly
+![Netfly Box Logo](https://liteapks.com/wp-content/uploads/2026/01/icon_xyz-netfly-150x150.jpg)
+
+[Netfly](https://www.netflyapp.com/file/netfly_tv.apk)
+
+---
+
+### Reezn
+![Reezn Box Logo](https://i.imgur.com/ijh4k6o.png)
+
+[Reezn](https://github.com/bedevlab/rdownload/releases/download/update/Reezn.apk)
+---
+
 ### Freevee
 ![Freevee Box Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Freevee_logo_background_purple.svg/500px-Freevee_logo_background_purple.svg.png)
 
