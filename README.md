@@ -55,7 +55,7 @@ Code for Downloader App: 3242533
 ---
 
 ## Nuvio
-![Nuvio App](https://github.com/NuvioMedia/NuvioTV/raw/dev/assets/brand/app_logo_wordmark.png)
+![Nuvio App](https://github.com/NuvioMedia/NuvioTV/raw/dev/assets/brand/app_logo_wordmark.png&w=256)
 
 [Nuvio GitHub Releases](https://github.com/NuvioMedia/NuvioMobile/releases/latest)
 
