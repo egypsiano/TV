@@ -124,6 +124,13 @@ Code for Downloader App: 3242533
 
 ---
 
+### Jellyfin
+![JellyFin] (https://jellyfin.org/images/logo.svg)
+
+[Jellyfin](https://github.com/jellyfin/jellyfin-android)
+
+---
+
 
 # IPTV Players
 
