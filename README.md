@@ -4,6 +4,13 @@ Code for Downloader App: 3242533
 
 ---
 
+### Open Shelf
+![Open Shelf Logo](https://avatars.githubusercontent.com/u/15865285?s=60&v=4)
+
+[Open Shelf](https://github.com/wingedpanther/openshelf/releases)
+
+---
+
 ### Netfly
 ![Netfly Box Logo](https://liteapks.com/wp-content/uploads/2026/01/icon_xyz-netfly-150x150.jpg)
 
