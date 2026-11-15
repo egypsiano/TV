@@ -4,6 +4,13 @@ Code for Downloader App: 3242533
 
 ---
 
+### StreamVault
+![StreamVault Logo](https://avatars.githubusercontent.com/u/81252480?s=60&v=4)
+
+[StreamVault](https://github.com/Davidona/StreamVault-IPTV/releases/latest/download/StreamVault.apk)
+
+---
+
 ### Open Shelf
 ![Open Shelf Logo](https://avatars.githubusercontent.com/u/15865285?s=60&v=4)
 
